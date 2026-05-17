@@ -1,0 +1,61 @@
+{
+  "nav": {
+    "about": "About",
+    "java": "Java",
+    "design": "Design",
+    "contact": "Contact",
+    "github": "GitHub"
+  },
+  "hero": {
+    "badge": "TILLGÄNGLIG FÖR ARBETSMÖJLIGHETER • 2026",
+    "breadcrumb": "SHEROQ SHAHWAN / PORTFOLIO",
+    "title1": "Bygger",
+    "title2": "eftertänksamma",
+    "title3": "system &",
+    "title4": "robusta",
+    "title5": "lösningar.",
+    "description": "Ambitiös nyexaminerad fullstackutvecklare med stort intresse för backend, frontend och systemdesign. Jag gillar att bygga moderna, stabila och användarvänliga system med fokus på kvalitet och utveckling.",
+    "cta1": "Se mitt arbete ↘",
+    "cta2": "Kontakta mig"
+  },
+  "about": {
+    "title1": "En utvecklare med",
+    "title2": "passion",
+    "title3": "för kod som håller.",
+    "p1": "Jag är Sheroq, nyexaminerad Java- och systemutvecklare med ett stort intresse för både backend och frontend. Det jag gillar mest med utveckling är att få förstå hur allt hänger ihop, från logiken bakom systemen till upplevelsen användaren möter. Jag drivs av problemlösning, clean code och att bygga lösningar som både är stabila och användarvänliga.",
+    "p2": "Min utbildning inom Javautveckling har gett mig en stark teknisk grund och möjligheten att göra nästan sex månaders praktik på Omegapoint i Malmö. Där har jag arbetat i en verklig produktionsmiljö med både backend- och frontendutveckling inom finansdomänen.",
+    "p3": "Under min universitetstid läste jag även en kurs inom interaktionsdesign där jag arbetade med C++, Arduino, Figma och olika kreativa projekt kopplade till teknik och användarupplevelse.",
+    "p4": "Jag söker nu en roll där jag kan fortsätta utvecklas, bidra med mitt driv och växa långsiktigt som utvecklare. Jag är extra intresserad av jobb i Lund eller Malmö, men jag är också öppen för remote-arbete.",
+    "location": "Sverige"
+  },
+  "java": {
+    "title": "Java Projekt",
+    "nm": {
+      "lager": "Fullstack Lagerhanteringssystem",
+      "finans": "Finansiellt Mikrotjänstsystem",
+      "portfolio": "Personlig Portfolio Webbsida"
+    },
+    "projects": {
+      "lager": "Ett omfattande fullstack-projekt som digitaliserar hela flödet för lageruthyrning. Systemet hanterar allt från användarregistrering och sökning till bokning och simulerad åtkomst via ett lås-API. Fokus har legat på att bygga en robust arkitektur med tydlig ansvarsfördelning, säker autentisering och testdriven utveckling (TDD) för att visa teknisk kompetens inom modern webbutveckling.",
+      "finans": "Ett avancerat mikroservicebaserat banksystem utvecklat med Java, Spring Boot och Micronaut där flera backend-tjänster kommunicerar via säkra REST API:er och OAuth 2.0. Systemet innehåller autentisering med Google OAuth2 och JWT, hantering av lån och kreditkort samt asynkron kommunikation mellan tjänster. Projektet integrerar även externa API:er för valutaväxling och väderdata för dynamisk ränteberäkning baserat på användarens land. Frontend utvecklades med React, TypeScript och Next.js med separata användar- och adminflöden.",
+      "portfolio": "Detta projekt omfattar design och utveckling av en personlig portfoliosida, byggd för att visa upp akademiska studier, tekniska projekt och yrkeserfarenhet. Webbplatsen fungerar som ett digitalt CV och ett interaktivt galleri för mina projekt. Plattformen är helt tvåspråkig (svenska och engelska) och inkluderar integrerade kontaktuppgifter för professionellt nätverkande. Fokus har legat på att skapa ett responsivt gränssnitt, ren kodstruktur och en användarvänlig navigering som ger en tydlig översikt av teknisk kompetens."
+    }
+  },
+  "design": {
+    "title": "Interaktionsdesign",
+    "nm": {
+      "mat": "Digital lösning för smartare och mer motiverande matinköp",
+      "spis": "Interaktiv Spiteful Stovetop Design och prototypprojekt",
+      "halsa": "Interaktionsdesign för Psykisk Hälsa"
+    },
+    "projects": {
+      "mat": "Ett användarcentrerat UX/UI-projekt baserat på Double Diamond-modellen med fokus på sena eller undvikna matinköp genom en digital lösning som motiverar användare att planera och genomföra sina inköp. Projektet omfattade hela designprocessen från research och problemidentifiering till wireframes, prototyp och användartester. Genom intervjuer, enkäter och desk research analyserades användarnas beteenden och behov för att skapa en enkel och motiverande användarupplevelse.",
+      "spis": "Ett interaktivt designprojekt med fokus på antropomorfism och mänskliga beteenden i hushållsapparater. Projektet utvecklade en 'spiteful' induktionsspis som genom ljud, ljus, touch och displayfeedback kunde uttrycka mänskliga egenskaper som irritation och motstånd. En fysisk prototyp byggdes med Arduino Nano 33 där sensorer, LED-lampor, buzzer och display integrerades.",
+      "halsa": "Projektet fokuserar på att skapa medvetenhet kring psykisk ohälsa, ensamhet och suicidprevention genom interaktionsdesign baserad på Double Diamond-modellen. Den tekniska lösningen består av en fysisk prototyp byggd med Arduino och programmerad i C++, där en touch-sensor aktiverar ljusfeedback och startar en interaktion."
+    }
+  },
+  "contact": {
+    "title1": "Har du ett projekt i åtanke?",
+    "title2": "Hör av dig."
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "nav": {
+    "about": "About",
+    "java": "Java",
+    "design": "Design",
+    "contact": "Contact",
+    "github": "GitHub"
+  },
+  "hero": {
+    "badge": "AVAILABLE FOR OPPORTUNITIES • 2026",
+    "breadcrumb": "SHEROQ SHAHWAN / PORTFOLIO",
+    "title1": "Building",
+    "title2": "thoughtful",
+    "title3": "systems &",
+    "title4": "robust",
+    "title5": "solutions.",
+    "description": "Ambitious newly graduated fullstack developer with a strong interest in backend, frontend and system design. I enjoy building modern, stable and user-friendly systems with a focus on quality and growth.",
+    "cta1": "See my work ↘",
+    "cta2": "Contact me"
+  },
+  "about": {
+    "title1": "A developer with",
+    "title2": "passion",
+    "title3": "for code that lasts.",
+    "p1": "I am Sheroq, a newly graduated Java and system developer with a strong interest in both backend and frontend. What I enjoy most about development is understanding how everything connects, from the logic behind systems to the experience users encounter. I am driven by problem-solving, clean code and building solutions that are both stable and user-friendly.",
+    "p2": "My education in Java development gave me a strong technical foundation and the opportunity to do almost six months of internship at Omegapoint in Malmö, working in a real production environment with both backend and frontend development in the financial domain.",
+    "p3": "During my university studies I also took a course in interaction design where I worked with C++, Arduino, Figma and various creative projects related to technology and user experience.",
+    "p4": "I am now looking for a role where I can continue to grow and contribute. I am especially interested in jobs in Lund or Malmö, but I am also open to remote work.",
+    "location": "Sweden"
+  },
+  "java": {
+    "title": "Java Projects",
+    "nm": {
+      "lager": "Full-Stack Inventory Management System",
+      "finans": "Financial Microservice System",
+      "portfolio": "Personal Portfolio Website"
+    },
+    "projects": {
+      "lager": "A comprehensive fullstack project that digitalizes the entire flow of warehouse rental. The system handles everything from user registration and search to booking and simulated access via a lock API. Focus was on building a robust architecture with clear separation of concerns, secure authentication and test-driven development (TDD).",
+      "finans": "An advanced microservice-based banking system built with Java, Spring Boot and Micronaut where multiple backend services communicate via secure REST APIs and OAuth 2.0. The system includes Google OAuth2 and JWT authentication, loan and credit card management, and asynchronous service-to-service communication. The project also integrates external APIs for currency exchange and weather data for dynamic interest rate calculation. Frontend was built with React, TypeScript and Next.js.",
+      "portfolio": "This project involves the design and development of a personal portfolio website, built to showcase academic studies, technical projects, and professional experience. The website functions as a digital CV and an interactive gallery for my projects. The platform is fully bilingual (Swedish and English) and includes integrated contact information for professional networking. The focus has been on creating a responsive interface, clean code structure, and user-friendly navigation that provides a clear overview of technical skills."
+    }
+  },
+  "design": {
+    "title": "Interaction Design",
+    "nm": {
+      "mat": "Digital Solution for Smarter and More Motivating Grocery Shopping",
+      "spis": "Interactive Spiteful Stovetop Design and Prototype Project",
+      "halsa": "Interaction Design for Mental Health"
+    },
+    "projects": {
+      "mat": "A user-centered UX/UI project based on the Double Diamond model focusing on late or avoided grocery shopping through a digital solution that motivates users to plan and complete their purchases. The project covered the entire design process from research and problem identification to wireframes, prototype and user testing.",
+      "spis": "An interactive design project focusing on anthropomorphism and human behaviors in household appliances. The project developed a 'spiteful' induction stove that through sound, light, touch and display feedback could express human traits like irritation and resistance. A physical prototype was built with Arduino Nano 33 with sensors, LEDs, buzzer and display.",
+      "halsa": "The project focuses on raising awareness about mental health, loneliness and suicide prevention through interaction design based on the Double Diamond model. The technical solution consists of a physical prototype built with Arduino and programmed in C++, where a touch sensor activates light feedback and starts an interaction."
+    }
+  },
+  "contact": {
+    "title1": "Have a project in mind?",
+    "title2": "Get in touch."
+  }
+}
