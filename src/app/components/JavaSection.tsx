@@ -9,11 +9,11 @@ export default function JavaSection() {
     const projects = [
         { name: t("nm.lager"), objectFit: "cover", year: "2026", description: t("projects.lager"),
             tags: ["Java", "Spring Boot", "REST API", "JWT", "React", "Vite", "Docker", "TDD"],
-            videoUrl: "/videos/examens-projekt.mp4", githubUrl: "https://github.com/sheroqshosho/Lager-uthyrning-Examen" },
+            videoUrl: "/videos/Examens-projekt.mp4", githubUrl: "https://github.com/sheroqshosho/Lager-uthyrning-Examen" },
 
         { name: t("nm.finans"), objectFit: "contain", year: "2026", description: t("projects.finans"),
             tags: ["Java", "Spring Boot", "Micronaut", "Microservices", "REST API", "OAuth2", "React", "NEXT.js", "TypeScript", "MySQL", "NoSQL/DynamoDB", "AWS"],
-            videoUrl: "/videos/omegabank.mp4", githubUrl: "https://github.com/sheroqshosho" },
+            videoUrl: "/videos/OmegaBank.mp4", githubUrl: "https://github.com/sheroqshosho" },
 
         { name:  t("nm.portfolio"), objectFit: "contain", year: "2026", description: t("projects.portfolio"),
             tags: ["TypeScript", "React", "Vercel"],

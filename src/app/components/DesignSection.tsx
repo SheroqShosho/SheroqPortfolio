@@ -10,17 +10,17 @@ export default function DesignSection() {
         { name:  t("nm.mat"), objectFit: "contain", year: "2024",
             description: t("projects.mat"),
             tags: ["UX/UI Design", "Figma", "User Interface", "Interaction Design", "Problem Solving", "Mobil Design"],
-            videoUrl: "/videos/mobilappen-figma.mp4", githubUrl: "https://github.com/sheroqshosho" },
+            videoUrl: "/videos/Mobilappen-figma.mp4", githubUrl: "https://github.com/sheroqshosho" },
 
         { name:  t("nm.spis"), objectFit: "contain", year: "2024",
             description: t("projects.spis"),
             tags: ["C++", "Arduino", "Interaction Design", "UX Design", "Embedded Systems"],
-            videoUrl: "/videos/stove.mp4", githubUrl: "https://github.com/sheroqshosho" },
+            videoUrl: "/videos/Stove.mp4", githubUrl: "https://github.com/sheroqshosho" },
 
         { name:  t("nm.halsa"), objectFit: "contain", year: "2024",
             description: t("projects.halsa"),
             tags: ["C++", "Arduino", "Figma", "Physical Prototype", "UX Design", "Embedded Systems"],
-            videoUrl: "/videos/hopehops.mp4", githubUrl: "https://github.com/sheroqshosho" },
+            videoUrl: "/videos/HopeHops.mp4", githubUrl: "https://github.com/sheroqshosho" },
     ];
 
     return (
